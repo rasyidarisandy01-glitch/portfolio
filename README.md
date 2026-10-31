@@ -1,25 +1,25 @@
-# 🚀 Personal Web Portfolio
+# Personal Web Portfolio
 
 A clean, modern, dark-mode personal portfolio built from scratch using **Vanilla HTML5, CSS3, and JavaScript**. Designed to showcase my projects, skills, and background as an aspiring software engineer.
 
-🌐 **Live Demo:** [rasyidarisandy01-glitch.github.io/portfolio](https://rasyidarisandy01-glitch.github.io/portfolio/)
+**Live Demo:** [rasyidarisandy01-glitch.github.io/portfolio](https://rasyidarisandy01-glitch.github.io/portfolio/)
 
 ---
 
-## ✨ Features
+## Features
 
-- 🌙 **Minimalist Dark UI:** Custom styling built with Plus Jakarta Sans typography and CSS variables.
-- 📱 **Fully Responsive:** Optimized layout for desktop, tablet, and mobile screens.
-- ♿ **Accessibility First:** Includes keyboard focus indicators (`:focus-visible`) and a "Skip to main content" link.
-- 🏷️ **Dynamic Features:**
+- **Minimalist Dark UI:** Custom styling built with Plus Jakarta Sans typography and CSS variables.
+- **Fully Responsive:** Optimized layout for desktop, tablet, and mobile screens.
+- **Accessibility First:** Includes keyboard focus indicators (`:focus-visible`) and a "Skip to main content" link.
+- **Dynamic Features:**
   - Automatic overflowing detection for project descriptions with an interactive **Read More / Show Less** toggle.
   - Automatic copyright year updates using JavaScript.
   - Visual status badges (*Completed* vs. *In Progress*).
-- 🔍 **SEO & Social Sharing:** Fully configured with Open Graph and Twitter card metadata for rich previews.
+- **SEO & Social Sharing:** Fully configured with Open Graph and Twitter card metadata for rich previews.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Markup:** HTML5 (Semantic Structure)
 - **Styling:** CSS3 (Flexbox, CSS Grid, Custom Properties, Glassmorphism)
@@ -28,7 +28,7 @@ A clean, modern, dark-mode personal portfolio built from scratch using **Vanilla
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ├── index.html       # Primary HTML structure
